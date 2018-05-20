@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/bjordan/Projects/GameOfLife/GameOfLife/Content/spriteFont.spritefont</SourceFile>
+  <SourceTime>2018-05-03T22:45:11.323038+02:00</SourceTime>
+  <DestFile>/home/bjordan/Projects/GameOfLife/GameOfLife/Content/bin/DesktopGL/spriteFont.xnb</DestFile>
+  <DestTime>2018-05-11T21:22:45.760776+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-04-18T20:46:41.560383+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-04-18T20:46:41.560383+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
